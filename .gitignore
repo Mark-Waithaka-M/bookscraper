@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Scrapy output files
+*.log
+*.csv
+*.json
+*.jl
+feeds/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
